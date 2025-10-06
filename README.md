@@ -25,7 +25,7 @@ An intelligent code anti-plagiarism tool for C/C++/Python that uses AI (LLM) to 
 ### 1. 克隆仓库
 
 ```bash
-git clone [https://github.com/YourUsername/AI-Code-Obfuscator.git](https://github.com/YourUsername/AI-Code-Obfuscator.git)
+git clone https://github.com/panjose/AI-Code-Obfuscator.git
 cd AI-Code-Obfuscator
 ````
 
