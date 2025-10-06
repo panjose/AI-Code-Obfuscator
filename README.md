@@ -5,7 +5,7 @@ An intelligent code anti-plagiarism tool for C/C++/Python that uses AI (LLM) to 
 
 ## 🚀 项目概述 (Overview)
 
-**AI-Code-Obfuscator** 是一个用于代码**反抄袭（Anti-Plagiarism）**和**去重（Deduplication）**的命令行工具。
+**AI-Code-Obfuscator** 是一个用于代码 **反抄袭（Anti-Plagiarism）** 和 **去重（Deduplication）** 的命令行工具。
 
 传统的混淆工具通常使用随机或无意义的名称替换变量，而本项目利用 **大型语言模型 (LLM)** 的能力，在重命名变量和函数时，**分析其上下文逻辑，并生成具有实际意义的新名称**。这不仅能有效改变代码特征，还能同时提高代码的可读性，非常适用于代码作业提交、知识产权保护等场景。
 
